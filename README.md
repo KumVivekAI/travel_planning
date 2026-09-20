@@ -3,6 +3,17 @@
 A context-aware travel assistant that combines **RAG** (document-based knowledge base) with **MCP tools** (live weather and currency data), built with **LangChain**.
 ---
 
+## Artifact
+
+### Artifact Link 
+https://drive.google.com/file/d/1ENBD5rsCBQ7fhkV2ZY2-_jlnyGybbWXb/view?usp=sharing
+
+### Video Link
+https://drive.google.com/file/d/1WDc5nrhB8_3hbWjona-KnBS8NtWByMmB/view?usp=sharing
+
+### Repo Link
+https://github.com/KumVivekAI/travel_planning 
+
 ## Architecture
 
 ```
