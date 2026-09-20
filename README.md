@@ -6,7 +6,7 @@ A context-aware travel assistant that combines **RAG** (document-based knowledge
 ## Artifact
 
 ### Artifact Link 
-https://drive.google.com/file/d/1ENBD5rsCBQ7fhkV2ZY2-_jlnyGybbWXb/view?usp=sharing
+https://drive.google.com/file/d/1imCF6BcdOuqQXuSgWgZAX-1mH0AoPiTi/view?usp=sharing
 
 ### Video Link
 https://drive.google.com/file/d/1WDc5nrhB8_3hbWjona-KnBS8NtWByMmB/view?usp=sharing
